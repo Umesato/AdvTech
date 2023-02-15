@@ -1,1 +1,0 @@
-from env.snake.snakes import *

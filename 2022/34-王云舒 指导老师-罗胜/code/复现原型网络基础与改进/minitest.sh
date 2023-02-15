@@ -1,1 +1,0 @@
-python test.py --load ./save/proto-localtest/max-acc.pth --shot 1 --batch 200

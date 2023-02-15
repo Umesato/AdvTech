@@ -1,1 +1,0 @@
-python test.py --load ./save/gesture_2shot/max-acc.pth --shot 2 --way 26 --batch 100

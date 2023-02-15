@@ -1,9 +1,0 @@
----
-BasedOnStyle: Google
-AllowShortIfStatementsOnASingleLine: false
-AllowShortLoopsOnASingleLine: false
-IndentCaseLabels: false
-AccessModifierOffset: -1
-DerivePointerAlignment: false
-PointerAlignment: Right
-AllowShortFunctionsOnASingleLine: Empty

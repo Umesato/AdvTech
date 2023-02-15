@@ -1,2 +1,0 @@
-content_dir：MS-COCO（https://www.kaggle.com/datasets/hariwh0/ms-coco-dataset）
-style_dir：WikiArt（https://www.kaggle.com/datasets/steubk/wikiart）

@@ -1,5 +1,0 @@
-### todo
-
- - [ ] Intro
- - [ ] Procedure
- - [ ] Verification

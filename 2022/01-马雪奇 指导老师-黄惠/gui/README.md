@@ -1,1 +1,0 @@
-Python 扩展包: qtpy,pyvista, pyvistaqt, numpy

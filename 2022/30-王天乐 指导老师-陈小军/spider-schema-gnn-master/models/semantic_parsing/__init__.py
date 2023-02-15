@@ -1,1 +1,0 @@
-from models.semantic_parsing.spider_parser import SpiderParser

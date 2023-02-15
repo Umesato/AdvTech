@@ -1,1 +1,0 @@
-mpirun -np 3  ../MLP ../../setup/MNIST

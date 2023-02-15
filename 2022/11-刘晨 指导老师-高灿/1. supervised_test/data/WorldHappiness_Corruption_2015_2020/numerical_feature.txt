@@ -1,9 +1,0 @@
-happiness_score
-gdp_per_capita
-family
-health
-freedom
-generosity
-government_trust
-dystopia_residual
-social_support
